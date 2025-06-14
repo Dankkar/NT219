@@ -1,5 +1,6 @@
-Lab 1: Coding DES, AES using cryptopp library
+# Lab 1: Coding DES, AES using cryptopp library
 A. Required:
+
 +) Mode of operations:
   - Select mode from screen (using switch case)
   - Support modes:  ECB, CBC, OFB, CFB, CTR, XTS, CCM, GCM.
@@ -25,8 +26,10 @@ A. Required:
 Report Lab 1
 Write your report in word file including:
   1. Report your hardware resources;
-  2. Report computation performance on Windows and Linux (in tabe with capture image on running your program);
+  2. Report computation performance on Windows and Linux (in tabe with capture image on running your program)
+
     - Generate a set of different input sizes (at least 6 inputs in size KBs up to MBs)
     - Execute your code and check the computation time on average 10 000 running times;
     - Summarize the results in a tables including: size of input, OS (Windows, Linux), encryption time and decryption time.
     - Do a comparison and your comments on both input size and OS;
+    
